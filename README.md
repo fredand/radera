@@ -1,7 +1,12 @@
 # radera
 Radera personuppgifter från publika sajter.
 
-[birthday.se](https://www.birthday.se/personuppgifter)
+| Syntax      | Description |
+| ----------- | ----------- |
+| birthday.se      | [birthday.se](https://www.birthday.se/personuppgifter)       |
+| Paragraph   | Text        |
+
+
 
 
 https://www.hitta.se/kontakta-oss/ta-bort-mina-uppgifter

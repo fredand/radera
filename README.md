@@ -3,7 +3,7 @@ Radera personuppgifter från publika sajter.
 
 | Sajt              | Länk                                                        | Bankid  |
 | -----------       | -----------                                                 | ------- |
-| birthday.se       | [birthday.se](https://www.birthday.se/personuppgifter)      | Nej     |
+| birthday.se       | https://www.birthday.se/personuppgifter                     | Nej     |
 | Paragraph         | Text                                                        |         |
 
 

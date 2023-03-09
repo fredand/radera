@@ -1,10 +1,10 @@
 # radera
 Radera personuppgifter från publika sajter.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| birthday.se      | [birthday.se](https://www.birthday.se/personuppgifter)       |
-| Paragraph   | Text        |
+| Sajt              | Länk                                                        | Bankid  |
+| -----------       | -----------                                                 | ------- |
+| birthday.se       | [birthday.se](https://www.birthday.se/personuppgifter)      | Nej     |
+| Paragraph         | Text                                                        |         |
 
 
 

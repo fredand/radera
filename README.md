@@ -4,13 +4,7 @@ Radera personuppgifter från publika sajter.
 | Sajt              | Länk                                                        | Bankid  |
 | -----------       | -----------                                                 | ------- |
 | birthday.se       | https://www.birthday.se/personuppgifter                     | Nej     |
-| Paragraph         | Text                                                        |         |
+| hitta.se          | https://www.hitta.se/kontakta-oss/ta-bort-mina-uppgifter    | Ja      |
+| merinfo.se        | https://redigera.merinfo.se/                                | Ja      |
 
 
-
-
-https://www.hitta.se/kontakta-oss/ta-bort-mina-uppgifter
-
-https://redigera.merinfo.se/
-
-https://www.birthday.se/personuppgifter

@@ -12,6 +12,7 @@ _Använd https://privatperson.statenspersonadressregister.se/ för att kontrolle
 | ratsit.se         | [kundservice@ratsit.se](mailto:kundservice@ratsit.se)       | Nej     |
 | eniro.se [^1]     | https://static5.eniro.com/rfi/RTBF_SE.pdf                   | Nej     |
 | vemringde.se [^2] | [info@vemringde.se](mailto:info@vemringde.se)               | Nej     |
+| mrkoll.se [^3]    | https://mrkoll.se/om/andra-uppgifter/                       | Ja      |
 
 
 Oklara eller där möjlighet inte ges.
@@ -19,8 +20,8 @@ Oklara eller där möjlighet inte ges.
 | Sajt        | Kommentar |
 | -------     | ------- |
 | checkbiz.se | Har kontaktat sajten (2023-03-10) |
-| mrkoll.se   | Ger inte möjlighet till radering |
 | upplysning.se | Har kontaktat sajten (2023-03-10) |
 
 [^1]: En pdf som skall skickas in brevledes med en kopia av fotolegitimation.
 [^2]: Du skall skicka med en länk till telefonnumret (från [sajten](https://www.vemringde.se/)), samt vilket nummer.
+[^3]: Uppgifterna kommer att komma tillbaka eftersom de hämtar från andra register [läs mer](https://mrkoll.se/om/kundservice-publicerade-uppgifter/).

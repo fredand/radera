@@ -11,5 +11,10 @@ Radera personuppgifter från publika sajter.
 | vemringde.se [^2] | [info@vemringde.se](mailto:info@vemringde.se)               | Nej     |
 
 
+Oklara eller där möjlighet inte ges.
+| Sajt        | Kommentar |
+| checkbiz.se | Har kontaktat sajten men inte fått svar |
+| mrkoll.se   | Ger inte möjlighet till radering |
+
 [^1]: En pdf som skall skickas in brevledes med en kopia av fotolegitimation.
 [^2]: Du skall skicka med en länk till telefonnumret (från [sajten](https://www.vemringde.se/)), samt vilket nummer.

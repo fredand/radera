@@ -10,5 +10,5 @@ Radera personuppgifter från publika sajter.
 | eniro.se [^1]     | https://static5.eniro.com/rfi/RTBF_SE.pdf                   | Nej     |
 
 
-[^1]: This is the first footnote.
+[^1]: En pdf som skall skickas in brevledes med en kopia av fotolegitimation.
 

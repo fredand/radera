@@ -12,4 +12,4 @@ Radera personuppgifter från publika sajter.
 
 
 [^1]: En pdf som skall skickas in brevledes med en kopia av fotolegitimation.
-[^2]: Du skall skicka med en länk till telefonnumret (från sajten), samt vilket nummer.
+[^2]: Du skall skicka med en länk till telefonnumret (från [https://www.vemringde.se/](sajten)), samt vilket nummer.

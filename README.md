@@ -12,7 +12,9 @@ Radera personuppgifter från publika sajter.
 
 
 Oklara eller där möjlighet inte ges.
+
 | Sajt        | Kommentar |
+| -------     | ------- |
 | checkbiz.se | Har kontaktat sajten men inte fått svar |
 | mrkoll.se   | Ger inte möjlighet till radering |
 

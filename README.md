@@ -1,5 +1,6 @@
-# radera
-Radera personuppgifter från publika sajter.
+# Radera personuppgifter
+
+Radera personuppgifter från publika sajter. _Använd https://privatperson.statenspersonadressregister.se/ för att kontrollera vilka som eftersökt personuppgifter_
 
 | Sajt              | Länk                                                        | Bankid  |
 | -----------       | -----------                                                 | ------- |

@@ -9,7 +9,7 @@ _Använd https://privatperson.statenspersonadressregister.se/ för att kontrolle
 | birthday.se       | https://www.birthday.se/personuppgifter                     | Nej     |
 | hitta.se          | https://www.hitta.se/kontakta-oss/ta-bort-mina-uppgifter    | Ja      |
 | merinfo.se        | https://redigera.merinfo.se/                                | Ja      |
-| ratsit.se         | [kundservice@ratsit.se](mailto:kundservice@ratsit.se)       | Nej     |
+| ratsit.se         | https://www.ratsit.se/tabort                                | Ja      |
 | eniro.se [^1]     | https://static5.eniro.com/rfi/RTBF_SE.pdf                   | Nej     |
 | vemringde.se [^2] | [info@vemringde.se](mailto:info@vemringde.se)               | Nej     |
 | mrkoll.se [^3]    | https://mrkoll.se/om/andra-uppgifter/                       | Ja      |

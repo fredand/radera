@@ -2,7 +2,7 @@
 
 Radera personuppgifter från publika sajter. 
 
-_Använd https://privatperson.statenspersonadressregister.se/ för att kontrollera vilka som eftersökt dina personuppgifter + sätt reklamspärr_
+_Använd [https://privatperson.statenspersonadressregister.se/](https://www.statenspersonadressregister.se/master/start/personuppgifter/registerutdrag/) för att kontrollera vilka som eftersökt dina personuppgifter + sätt reklamspärr_
 
 | Sajt              | Länk                                                        | Bankid  |
 | -----------       | -----------                                                 | ------- |

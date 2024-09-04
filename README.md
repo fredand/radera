@@ -19,8 +19,8 @@ Oklara eller där möjlighet inte ges.
 
 | Sajt        | Kommentar |
 | -------     | ------- |
-| checkbiz.se | Har kontaktat sajten (2023-03-10) (svar ankom samma dag [^4] |
-| upplysning.se | Har kontaktat sajten (2023-03-10) |
+| checkbiz.se | Har kontaktat sajten (2023-03-10) |
+| upplysning.se | Har kontaktat sajten (2023-03-10) (svar ankom samma dag [^4]) |
 
 [^1]: En pdf som skall skickas in brevledes med en kopia av fotolegitimation.
 [^2]: Du skall skicka med en länk till telefonnumret (från [sajten](https://www.vemringde.se/)), samt vilket nummer.

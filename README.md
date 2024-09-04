@@ -19,9 +19,10 @@ Oklara eller där möjlighet inte ges.
 
 | Sajt        | Kommentar |
 | -------     | ------- |
-| checkbiz.se | Har kontaktat sajten (2023-03-10) |
+| checkbiz.se | Har kontaktat sajten (2023-03-10) (svar ankom samma dag [^4] |
 | upplysning.se | Har kontaktat sajten (2023-03-10) |
 
 [^1]: En pdf som skall skickas in brevledes med en kopia av fotolegitimation.
 [^2]: Du skall skicka med en länk till telefonnumret (från [sajten](https://www.vemringde.se/)), samt vilket nummer.
 [^3]: Uppgifterna kommer att komma tillbaka eftersom de hämtar från andra register [läs mer](https://mrkoll.se/om/kundservice-publicerade-uppgifter/).
+[^4]: "Vi är inte skyldiga att ta bort några uppgifter från sidan. Men återkom med länken till sidan där du finns med så tar vi bort dig från det publika söket inom kort."

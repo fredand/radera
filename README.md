@@ -7,7 +7,7 @@ _Använd [https://privatperson.statenspersonadressregister.se/](https://www.stat
 | Sajt              | Länk                                                        | Bankid  |
 | -----------       | -----------                                                 | ------- |
 | birthday.se       | https://www.birthday.se/personuppgifter                     | Nej     |
-| hitta.se          | https://www.hitta.se/kontakta-oss/ta-bort-mina-uppgifter    | Ja      |
+| hitta.se          | Leta upp dig och välj radera mha bankid                     | Ja      |
 | merinfo.se        | https://redigera.merinfo.se/                                | Ja      |
 | ratsit.se         | https://www.ratsit.se/tabort                                | Ja      |
 | eniro.se [^1]     | https://static5.eniro.com/rfi/RTBF_SE.pdf                   | Nej     |
